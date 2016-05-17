@@ -265,3 +265,5 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE02.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE02.m3u8
 #EXTINF:0,MILENIO
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE02.m3u8
+#EXTINF:-1,BARZA TV
+rtmp://31.220.0.206/pull/barztv?keys=CEEpsAyNohpF03XfwT97tw&keyt=1443272493 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
