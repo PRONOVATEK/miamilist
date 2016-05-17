@@ -265,15 +265,5 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE02.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE02.m3u8
 #EXTINF:0,MILENIO
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE02.m3u8
-#EXTINF:-1,BARZA TV
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1585.ts
-#EXTINF:0,LIVERPOOL TV
-http://bit.ly/1DezdqC
-#EXTINF:0,CHELSEA TV
-http://bit.ly/1UculX6
-#EXTINF:0,REAL MADRID TV
-http://bit.ly/1E5b4AS
-#EXTINF:0,BARÇA TV
-http://bit.ly/1IOKHn7
-#EXTINF:0,BARÇA TV HD
-http://bit.ly/1Id3BOX
+#EXTINF:-1,BARÇA TV
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.60/pull playpath=barztv?keys=iqLkBkKMyBIBPVXwMc_oFQ&keyt=1444988116 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
