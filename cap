@@ -266,4 +266,4 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE02.m3u8
 #EXTINF:0,MILENIO
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE02.m3u8
 #EXTINF:-1,BARÇA TV
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.60/pull playpath=barztv?keys=iqLkBkKMyBIBPVXwMc_oFQ&keyt=1444988116 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
+http://ORBIT-IPTV.COM:2500/live/meer/meer/1076.ts
